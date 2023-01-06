@@ -4,4 +4,4 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[Player
 game.Players.LocalPlayer.Character.LocalRagdoll:Destroy()
 game.Players.LocalPlayer.Character.Ragdoll:Destroy()
 game.Player.LocalPlayer.Character.Ragdolled:Destroy()
-
+--ok
