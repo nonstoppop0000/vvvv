@@ -1,3 +1,5 @@
+G.TPPlayer = t
+while _G.TPPlayer do wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Players[PlayerTP].Character.HumanoidRootPart.CFrame
 game.Players.LocalPlayer.Character.LocalRagdoll:Destroy()
 game.Players.LocalPlayer.Character.Ragdoll:Destroy()
